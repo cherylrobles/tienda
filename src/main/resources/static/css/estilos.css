@@ -1,0 +1,27 @@
+.parrafoRojo{
+    color:red;
+}
+
+.parrafoAzul{
+    color:blue;
+}
+
+p, h1, div {
+   background-color: antiquewhite 
+}
+
+div p {
+    font-size: 40px;
+}
+
+a{
+    font-size: 20px;
+}
+
+a:hover {
+    color:red;
+}
+
+a:visited {
+    color:green;
+}
